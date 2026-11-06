@@ -1,0 +1,23 @@
+
+===== Codemd extension session 2026-11-06T03:07:33.015Z =====
+2026-11-06T03:07:33.024Z [activate] debug log: c:\DATA\github\codemd-dev\opendental_21_1\opendental\.codemd\codemd-extension-debug.log
+2026-11-06T03:14:10.675Z [webview] graph message received {"url":"http://127.0.0.1:8929/output_a1b2c3d4/local-_opende_10b7b91d/search_results_graph.html?_t=1793934850672"}
+2026-11-06T03:14:11.307Z [webview] graph iframe load {"src":"http://127.0.0.1:8929/output_a1b2c3d4/local-_opende_10b7b91d/search_results_graph.html?_t=1793934850672","width":1221,"height":41,"display":"block"}
+
+===== Codemd extension session 2026-11-06T05:59:58.135Z =====
+2026-11-06T05:59:58.145Z [activate] debug log: c:\DATA\github\codemd-dev\opendental_21_1\opendental\.codemd\codemd-extension-debug.log
+2026-11-06T06:00:15.879Z [webview] graph message received {"url":"http://127.0.0.1:8929/output_a1b2c3d4/local-_opende_10b7b91d/search_results_graph.html?_t=1793944815877"}
+2026-11-06T06:00:16.395Z [webview] graph iframe load {"src":"http://127.0.0.1:8929/output_a1b2c3d4/local-_opende_10b7b91d/search_results_graph.html?_t=1793944815877","width":1221,"height":45,"display":"block"}
+2026-11-06T06:04:20.750Z [webview] graph message received {"url":"http://127.0.0.1:8929/output_a1b2c3d4/local-_opende_10b7b91d/search_results_graph.html"}
+2026-11-06T06:04:21.090Z [webview] graph iframe load {"src":"http://127.0.0.1:8929/output_a1b2c3d4/local-_opende_10b7b91d/search_results_graph.html","width":1221,"height":45,"display":"block"}
+2026-11-06T06:04:24.618Z [webview] graph message received {"url":"http://127.0.0.1:8929/output_a1b2c3d4/local-_opende_10b7b91d/search_results_graph.html?_t=1793945064617"}
+2026-11-06T06:04:25.008Z [webview] graph iframe load {"src":"http://127.0.0.1:8929/output_a1b2c3d4/local-_opende_10b7b91d/search_results_graph.html?_t=1793945064617","width":1221,"height":45,"display":"block"}
+
+===== Codemd extension session 2026-11-06T06:15:16.563Z =====
+2026-11-06T06:15:16.576Z [activate] debug log: c:\DATA\github\codemd-dev\opendental_21_1\opendental\.codemd\codemd-extension-debug.log
+2026-11-06T06:15:30.131Z [webview] graph message received {"url":"http://127.0.0.1:8929/output_a1b2c3d4/local-_opende_10b7b91d/search_results_graph.html?_t=1793945730129"}
+2026-11-06T06:15:30.603Z [webview] graph iframe load {"src":"http://127.0.0.1:8929/output_a1b2c3d4/local-_opende_10b7b91d/search_results_graph.html?_t=1793945730129","width":1221,"height":53,"display":"block"}
+2026-11-06T06:18:25.230Z [webview] graph message received {"url":"http://127.0.0.1:8929/output_a1b2c3d4/local-_opende_10b7b91d/search_results_graph.html"}
+2026-11-06T06:18:25.449Z [webview] graph iframe load {"src":"http://127.0.0.1:8929/output_a1b2c3d4/local-_opende_10b7b91d/search_results_graph.html","width":1221,"height":53,"display":"block"}
+2026-11-06T06:18:28.094Z [webview] graph message received {"url":"http://127.0.0.1:8929/output_a1b2c3d4/local-_opende_10b7b91d/search_results_graph.html?_t=1793945908093"}
+2026-11-06T06:18:28.414Z [webview] graph iframe load {"src":"http://127.0.0.1:8929/output_a1b2c3d4/local-_opende_10b7b91d/search_results_graph.html?_t=1793945908093","width":1221,"height":53,"display":"block"}

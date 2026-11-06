@@ -1,0 +1,2221 @@
+{
+  "version": 1,
+  "features": {
+    "feat_grbpbfav": [
+      {
+        "id": "63e89d65-e970-4b0d-b520-89d434c22946",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_grbpbfav",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "&Cancel"
+          }
+        ]
+      },
+      {
+        "id": "b43e44cc-3e23-475a-bf94-ac7604bde1ed",
+        "kind": "feature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_grbpbfav",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_t2exadz7": [
+      {
+        "id": "4f2b6f62-068a-47b7-ba42-9d1811dc3325",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_t2exadz7",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Abs Table Fill"
+          }
+        ]
+      },
+      {
+        "id": "ce7b4789-250a-4628-a9e0-9cb4525ea5b9",
+        "kind": "feature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_t2exadz7",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_58p4dqx6": [
+      {
+        "id": "5d96675b-7cc6-4bc6-9328-d30adc9ec52a",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_58p4dqx6",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "EraAutomationOverride"
+          }
+        ]
+      },
+      {
+        "id": "81e90167-0ac4-4fdb-b2da-3f71b15c8a6a",
+        "kind": "feature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_58p4dqx6",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_94nraz8u": [
+      {
+        "id": "bb9290a3-0eaa-467c-93e7-a68a9ef8c86b",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_94nraz8u",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Pref Update Table"
+          }
+        ]
+      },
+      {
+        "id": "6a115445-3cd8-472e-a1c8-7c2152f4df5e",
+        "kind": "feature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_94nraz8u",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_b24adddh": [
+      {
+        "id": "05de0457-feac-44ff-9404-e4bd5e51c65c",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_b24adddh",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Procedures Same Procedure"
+          }
+        ]
+      },
+      {
+        "id": "19f93286-713c-49d8-8979-8d64b24e9322",
+        "kind": "feature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_b24adddh",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_8iyxj6hh": [
+      {
+        "id": "27c2caf8-378f-42fd-adb4-84eef4f60d9a",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_8iyxj6hh",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Design Ctl Click"
+          }
+        ]
+      },
+      {
+        "id": "81224de1-3d6c-4888-80ac-67b1bab70f58",
+        "kind": "feature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_8iyxj6hh",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_vt44py7q": [
+      {
+        "id": "64ea9c50-7365-4abd-8c99-b57bb0a79b55",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_vt44py7q",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Render Pdf End"
+          }
+        ]
+      },
+      {
+        "id": "89837886-2f78-4f70-b02e-2daa1bc54f86",
+        "kind": "feature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_vt44py7q",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_fp7z2tpi": [
+      {
+        "id": "0660045e-80ed-44a1-8102-420743fc7316",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_fp7z2tpi",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Form4k Click Testing"
+          }
+        ]
+      },
+      {
+        "id": "c2d3f9c1-e67a-4745-946d-170b2683f2bc",
+        "kind": "feature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_fp7z2tpi",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_94zaq5c5": [
+      {
+        "id": "26355fca-e0c4-42c9-9570-6e10b24a6e1b",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_94zaq5c5",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Function Aggr Count"
+          }
+        ]
+      },
+      {
+        "id": "2246bcfa-3178-4309-9f4f-06c789f2f84d",
+        "kind": "feature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_94zaq5c5",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_ftg2uu47": [
+      {
+        "id": "6a72e150-1260-4e81-9ba4-f0c7ab339139",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_ftg2uu47",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "carrier"
+          }
+        ]
+      },
+      {
+        "id": "c3a09002-9eca-42fc-a203-a16faa33d83d",
+        "kind": "feature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_ftg2uu47",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_2dvhfxaq": [
+      {
+        "id": "3fa71b66-f287-47dc-ae45-c52407b2d832",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_2dvhfxaq",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Gen Generator Table"
+          }
+        ]
+      },
+      {
+        "id": "3a2e1e8e-5ccf-435e-be29-b18b86823d5c",
+        "kind": "feature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_2dvhfxaq",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_puk36zu7": [
+      {
+        "id": "97317977-187e-494b-86bd-b7934bb337f4",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_puk36zu7",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Solution"
+          }
+        ]
+      },
+      {
+        "id": "cd152b30-7e18-4604-b5bb-a21a49d37b5e",
+        "kind": "feature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_puk36zu7",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_h8xjfiz2": [
+      {
+        "id": "5b57f035-fabc-46af-81b4-e6d879dc848e",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_h8xjfiz2",
+        "parent_id": "feat_grbpbfav",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Cancel Click"
+          }
+        ]
+      },
+      {
+        "id": "e7a64d02-44c7-4e9e-9c67-ac2c8e7b9b5f",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_h8xjfiz2",
+        "parent_id": "feat_grbpbfav",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_uhmfmpay": [
+      {
+        "id": "160055be-3a5a-424c-9fce-e3b9bc1eb0a5",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_uhmfmpay",
+        "parent_id": "feat_grbpbfav",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Close Click"
+          }
+        ]
+      },
+      {
+        "id": "07c48cea-1eab-4325-aa5d-6d11c211846a",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_uhmfmpay",
+        "parent_id": "feat_grbpbfav",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_t4iucsgc": [
+      {
+        "id": "6b31c48a-b473-44d6-8c7c-731458799538",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_t4iucsgc",
+        "parent_id": "feat_t2exadz7",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Table"
+          }
+        ]
+      },
+      {
+        "id": "a909d8a3-b067-4b3e-bb1f-f8f4dac1e82a",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_t4iucsgc",
+        "parent_id": "feat_t2exadz7",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_wcq8za3i": [
+      {
+        "id": "c3850030-ec65-4ad6-b505-660e94cdb8c9",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_wcq8za3i",
+        "parent_id": "feat_t2exadz7",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Short"
+          }
+        ]
+      },
+      {
+        "id": "3b03968c-23d7-4864-a147-b1e6f823a572",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_wcq8za3i",
+        "parent_id": "feat_t2exadz7",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_pb29yrp5": [
+      {
+        "id": "5cea2ce7-4c99-444f-824e-2cb11419eea7",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_pb29yrp5",
+        "parent_id": "feat_t2exadz7",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Fill Table"
+          }
+        ]
+      },
+      {
+        "id": "eab51d99-2ba9-4cd4-b5a1-14051aec4653",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_pb29yrp5",
+        "parent_id": "feat_t2exadz7",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_exjej5jb": [
+      {
+        "id": "dcead5ea-7145-4533-be53-38caf589b17c",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_exjej5jb",
+        "parent_id": "feat_t2exadz7",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Refresh"
+          }
+        ]
+      },
+      {
+        "id": "160b5298-cd25-48f9-8f5d-1daa53973cf7",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_exjej5jb",
+        "parent_id": "feat_t2exadz7",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_9kv9vru8": [
+      {
+        "id": "a5d1525a-5663-4105-8065-2b78441e3981",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_9kv9vru8",
+        "parent_id": "feat_t2exadz7",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Copy"
+          }
+        ]
+      },
+      {
+        "id": "09795f53-2b65-4ab0-ac3e-a1aa675d9996",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_9kv9vru8",
+        "parent_id": "feat_t2exadz7",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_hwgwk5bq": [
+      {
+        "id": "8fd63a23-6978-4199-851d-bcc3d766822e",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_hwgwk5bq",
+        "parent_id": "feat_t2exadz7",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Fill Needed"
+          }
+        ]
+      },
+      {
+        "id": "a7206c7f-fb53-4389-9f8c-1804ec9ecb8c",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_hwgwk5bq",
+        "parent_id": "feat_t2exadz7",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_htbsym3h": [
+      {
+        "id": "2dfb87cf-7e0f-434d-adbf-5b013f18a648",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_htbsym3h",
+        "parent_id": "feat_58p4dqx6",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Pass"
+          }
+        ]
+      },
+      {
+        "id": "cb7666cc-282d-4b3f-858b-547904d97308",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_htbsym3h",
+        "parent_id": "feat_58p4dqx6",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_9cc2wzsy": [
+      {
+        "id": "70503db2-90d3-4b68-bff9-58643bfa9f9f",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_9cc2wzsy",
+        "parent_id": "feat_58p4dqx6",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Run"
+          }
+        ]
+      },
+      {
+        "id": "6fae25dc-54d8-4687-bc0c-3c5a4181daac",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_9cc2wzsy",
+        "parent_id": "feat_58p4dqx6",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_s9m29jai": [
+      {
+        "id": "fda02475-7a81-46ff-a0c0-20c4d30a48de",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_s9m29jai",
+        "parent_id": "feat_58p4dqx6",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Copy"
+          }
+        ]
+      },
+      {
+        "id": "a41fac29-3f58-4142-a44f-4ff58cb1b6f5",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_s9m29jai",
+        "parent_id": "feat_58p4dqx6",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_6urajk6t": [
+      {
+        "id": "1ac0c369-77ea-4cd6-b723-b3a6a35c374a",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_6urajk6t",
+        "parent_id": "feat_58p4dqx6",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Input Key"
+          }
+        ]
+      },
+      {
+        "id": "b815b660-5f54-48a2-99f3-a70d377853a1",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_6urajk6t",
+        "parent_id": "feat_58p4dqx6",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_wd7dqcak": [
+      {
+        "id": "58418040-2b7b-4a0f-9a54-2c0d148bfe6e",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_wd7dqcak",
+        "parent_id": "feat_58p4dqx6",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Mouse Leave"
+          }
+        ]
+      },
+      {
+        "id": "1e7a2966-5581-46b3-9825-790da6441916",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_wd7dqcak",
+        "parent_id": "feat_58p4dqx6",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_qsnkc3n4": [
+      {
+        "id": "4e1a3563-0e98-43b3-903e-af93021eddea",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_qsnkc3n4",
+        "parent_id": "feat_58p4dqx6",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Minimum Height"
+          }
+        ]
+      },
+      {
+        "id": "9a386423-e334-4c68-a9ee-e7b472b3401e",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_qsnkc3n4",
+        "parent_id": "feat_58p4dqx6",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_gzsjx5a9": [
+      {
+        "id": "a29a4d8b-15de-4f92-899f-d6af524dd8ee",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_gzsjx5a9",
+        "parent_id": "feat_94nraz8u",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Update"
+          }
+        ]
+      },
+      {
+        "id": "9a99335a-dacd-42b4-ab87-320b38e5505f",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_gzsjx5a9",
+        "parent_id": "feat_94nraz8u",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_ri2ne74p": [
+      {
+        "id": "4900ca13-2c7c-4bbf-98f8-cdc5af102b61",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_ri2ne74p",
+        "parent_id": "feat_94nraz8u",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Date"
+          }
+        ]
+      },
+      {
+        "id": "2645d98a-f64d-48fa-ab48-0670715354b9",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_ri2ne74p",
+        "parent_id": "feat_94nraz8u",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_ybr5r9zi": [
+      {
+        "id": "9f7b39fd-b96a-420e-959b-1c8edbc4f891",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_ybr5r9zi",
+        "parent_id": "feat_94nraz8u",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Invalidate Verbose Logging"
+          }
+        ]
+      },
+      {
+        "id": "b9ca3bfd-a533-49f8-8f2e-f15ff0f47e3e",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_ybr5r9zi",
+        "parent_id": "feat_94nraz8u",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_7my4edcm": [
+      {
+        "id": "827f5437-41e4-424d-a3f3-c0fbd7473b68",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_7my4edcm",
+        "parent_id": "feat_94nraz8u",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Byte"
+          }
+        ]
+      },
+      {
+        "id": "c1e2d823-756b-4a12-9bfe-55664f35541e",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_7my4edcm",
+        "parent_id": "feat_94nraz8u",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_iyfuea82": [
+      {
+        "id": "90b1f9a6-1bc6-4470-ac46-cb92e4ca67c4",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_iyfuea82",
+        "parent_id": "feat_94nraz8u",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Double"
+          }
+        ]
+      },
+      {
+        "id": "3c8ee623-06b4-4f86-8a45-1b494fa8db9e",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_iyfuea82",
+        "parent_id": "feat_94nraz8u",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_znh2kvdb": [
+      {
+        "id": "abd4f923-40b0-4c08-9a25-7a3b6a77e177",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_znh2kvdb",
+        "parent_id": "feat_94nraz8u",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Bool"
+          }
+        ]
+      },
+      {
+        "id": "54411ca7-331b-4e27-bf0d-b5803ccc4dc5",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_znh2kvdb",
+        "parent_id": "feat_94nraz8u",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_kmf6hs94": [
+      {
+        "id": "1f6d1273-b163-4a61-8ce9-ad2d012fe1f8",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_kmf6hs94",
+        "parent_id": "feat_b24adddh",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Procedures Same Procedure"
+          }
+        ]
+      },
+      {
+        "id": "a47bfa0f-eec6-407d-9070-88fa8c29cc18",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_kmf6hs94",
+        "parent_id": "feat_b24adddh",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_zjzms2sk": [
+      {
+        "id": "b6038432-d67f-4bd2-b64d-81c746b378c6",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_zjzms2sk",
+        "parent_id": "feat_b24adddh",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Procedures Proc Fee"
+          }
+        ]
+      },
+      {
+        "id": "d92d8b4a-49fd-4dc6-b713-2032f1318f8a",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_zjzms2sk",
+        "parent_id": "feat_b24adddh",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_rint978s": [
+      {
+        "id": "2c5edad9-bf7b-47e0-9937-9531420dc65d",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_rint978s",
+        "parent_id": "feat_8iyxj6hh",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Menu Properties Category"
+          }
+        ]
+      },
+      {
+        "id": "2e17e9ca-0201-4f53-abad-1559b301d160",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_rint978s",
+        "parent_id": "feat_8iyxj6hh",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_a484tm8w": [
+      {
+        "id": "eb159f88-cef4-4f2d-8faf-b7fbeb7af39b",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_a484tm8w",
+        "parent_id": "feat_8iyxj6hh",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Menu Properties Axis"
+          }
+        ]
+      },
+      {
+        "id": "ab951cd8-d3ec-46dd-997a-316976d3020b",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_a484tm8w",
+        "parent_id": "feat_8iyxj6hh",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_p6nuxkxd": [
+      {
+        "id": "46a52a2a-03b1-4232-af27-1066745d298b",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_p6nuxkxd",
+        "parent_id": "feat_8iyxj6hh",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Redo"
+          }
+        ]
+      },
+      {
+        "id": "d1188451-491b-4e8b-b62c-69ad0460b8db",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_p6nuxkxd",
+        "parent_id": "feat_8iyxj6hh",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_s3ta5teb": [
+      {
+        "id": "d83021c2-f96b-4ffa-bbdd-9505fca024a4",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_s3ta5teb",
+        "parent_id": "feat_8iyxj6hh",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Clear Undo"
+          }
+        ]
+      },
+      {
+        "id": "218b6bde-2ca3-4f03-a721-27d5d4202256",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_s3ta5teb",
+        "parent_id": "feat_8iyxj6hh",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_f2ae7cm7": [
+      {
+        "id": "77d74c4f-ef97-4079-9869-131314fb5951",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_f2ae7cm7",
+        "parent_id": "feat_8iyxj6hh",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Start Undo Group"
+          }
+        ]
+      },
+      {
+        "id": "9d215c89-6713-47ed-9c67-793fa07f5435",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_f2ae7cm7",
+        "parent_id": "feat_8iyxj6hh",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_ubezqhaw": [
+      {
+        "id": "fda7defb-7911-4cdb-b633-3802f065e7f9",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_ubezqhaw",
+        "parent_id": "feat_8iyxj6hh",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "End Undo Group"
+          }
+        ]
+      },
+      {
+        "id": "b7dd1896-a158-4197-a383-30f9443426f8",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_ubezqhaw",
+        "parent_id": "feat_8iyxj6hh",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_h2sjf7un": [
+      {
+        "id": "6d2721c6-1c7e-407e-bd89-d83670990d97",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_h2sjf7un",
+        "parent_id": "feat_vt44py7q",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Body Start"
+          }
+        ]
+      },
+      {
+        "id": "5e00d2a5-2897-4251-b04c-101451529e83",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_h2sjf7un",
+        "parent_id": "feat_vt44py7q",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_kqfkb55j": [
+      {
+        "id": "23394211-03ef-460b-bb56-86fc05eeca8c",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_kqfkb55j",
+        "parent_id": "feat_vt44py7q",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Body End"
+          }
+        ]
+      },
+      {
+        "id": "230b9109-48e6-4c9c-aee0-32b382c17cb1",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_kqfkb55j",
+        "parent_id": "feat_vt44py7q",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_y6fe7hjx": [
+      {
+        "id": "2de15fa7-cf98-4d16-9257-4c4c67870347",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_y6fe7hjx",
+        "parent_id": "feat_vt44py7q",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Page Header Start"
+          }
+        ]
+      },
+      {
+        "id": "db556bea-ad32-415d-83d7-c2628780f765",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_y6fe7hjx",
+        "parent_id": "feat_vt44py7q",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_9kgdwahk": [
+      {
+        "id": "b9904c5a-a935-4150-9ead-2105df46378f",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_9kgdwahk",
+        "parent_id": "feat_vt44py7q",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Page Header End"
+          }
+        ]
+      },
+      {
+        "id": "a236f8bd-0fd3-4676-9db4-da0f7d12f94f",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_9kgdwahk",
+        "parent_id": "feat_vt44py7q",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_kvem8d6x": [
+      {
+        "id": "02d2a185-146e-42a0-8725-6f55858e3e53",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_kvem8d6x",
+        "parent_id": "feat_vt44py7q",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Page Footer Start"
+          }
+        ]
+      },
+      {
+        "id": "78d7721f-a446-4ec0-a61d-3e8dbfface38",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_kvem8d6x",
+        "parent_id": "feat_vt44py7q",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_7ne9xybt": [
+      {
+        "id": "c286cbed-9ae7-4d89-a1d9-b10f75e659bd",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_7ne9xybt",
+        "parent_id": "feat_vt44py7q",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Page Footer End"
+          }
+        ]
+      },
+      {
+        "id": "60b26103-e95c-4fbf-8819-f1915f484f28",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_7ne9xybt",
+        "parent_id": "feat_vt44py7q",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_r4wwayjm": [
+      {
+        "id": "67e499ff-2a9c-4d21-9aa5-5845deba06b0",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_r4wwayjm",
+        "parent_id": "feat_fp7z2tpi",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Form4k Dpi Changed"
+          }
+        ]
+      },
+      {
+        "id": "74f4a830-287e-4053-b04d-af21cd243b1c",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_r4wwayjm",
+        "parent_id": "feat_fp7z2tpi",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_isida6uf": [
+      {
+        "id": "28ef48a3-1731-43e5-9075-642d9ce88448",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_isida6uf",
+        "parent_id": "feat_fp7z2tpi",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Menu Click"
+          }
+        ]
+      },
+      {
+        "id": "81cd6637-b58b-4e2c-a860-94b535e13cd6",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_isida6uf",
+        "parent_id": "feat_fp7z2tpi",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_cmyp3qsz": [
+      {
+        "id": "1c0a4fd9-c722-497b-be99-2968902369fd",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_cmyp3qsz",
+        "parent_id": "feat_fp7z2tpi",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Menu Daily Click"
+          }
+        ]
+      },
+      {
+        "id": "f6b82c38-bfd6-49b2-afd2-a0c44030a186",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_cmyp3qsz",
+        "parent_id": "feat_fp7z2tpi",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_e4zpuea2": [
+      {
+        "id": "582046c1-eb48-48c6-8bca-b7393e2e5e8e",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_e4zpuea2",
+        "parent_id": "feat_fp7z2tpi",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Menu Weekly Click"
+          }
+        ]
+      },
+      {
+        "id": "130267f3-3614-4c91-96ff-cd402273ccbd",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_e4zpuea2",
+        "parent_id": "feat_fp7z2tpi",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_jqbnbawq": [
+      {
+        "id": "3f341fae-76f2-4156-8a9b-a98ee15680c0",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_jqbnbawq",
+        "parent_id": "feat_fp7z2tpi",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Menu Monthly Click"
+          }
+        ]
+      },
+      {
+        "id": "1077390f-6f81-4dfe-bcfe-fe456ccc4742",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_jqbnbawq",
+        "parent_id": "feat_fp7z2tpi",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_84mrqaki": [
+      {
+        "id": "fc5bb3d7-b4a4-421b-b5a7-ecfdce0800f6",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_84mrqaki",
+        "parent_id": "feat_fp7z2tpi",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Menu Help Click"
+          }
+        ]
+      },
+      {
+        "id": "9d9632fb-9cc5-41db-be26-f685e883f04a",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_84mrqaki",
+        "parent_id": "feat_fp7z2tpi",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_5ayapb7r": [
+      {
+        "id": "ae057f3d-f70a-459a-8869-1ca57fb6d1db",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_5ayapb7r",
+        "parent_id": "feat_94zaq5c5",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Type"
+          }
+        ]
+      },
+      {
+        "id": "10b7d4a5-5f03-42bb-a467-8dbb42264021",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_5ayapb7r",
+        "parent_id": "feat_94zaq5c5",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_y2wh6e6u": [
+      {
+        "id": "84c44cd2-aa8c-49ab-a619-69fddea1aa0a",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_y2wh6e6u",
+        "parent_id": "feat_94zaq5c5",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Evaluate"
+          }
+        ]
+      },
+      {
+        "id": "b4b54f3c-bd34-4aa7-a8d2-6fb022aabce3",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_y2wh6e6u",
+        "parent_id": "feat_94zaq5c5",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_w2umyn5g": [
+      {
+        "id": "1c098bba-788d-4170-9605-7c993659e380",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_w2umyn5g",
+        "parent_id": "feat_94zaq5c5",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Clear"
+          }
+        ]
+      },
+      {
+        "id": "d31c76ab-a4d9-420c-a2ff-8b2216670c5c",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_w2umyn5g",
+        "parent_id": "feat_94zaq5c5",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_n72r9dwu": [
+      {
+        "id": "a200308b-3b3e-43a5-b5d0-94623b2ad071",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_n72r9dwu",
+        "parent_id": "feat_94zaq5c5",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Function Aggr Count"
+          }
+        ]
+      },
+      {
+        "id": "61c0db51-48ea-430f-af2e-c09638014ec9",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_n72r9dwu",
+        "parent_id": "feat_94zaq5c5",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_49g74wdr": [
+      {
+        "id": "1816bf6d-a692-4ed5-942f-b5083277cd6a",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_49g74wdr",
+        "parent_id": "feat_94zaq5c5",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Evaluate Decimal"
+          }
+        ]
+      },
+      {
+        "id": "6063c62e-422b-4117-9597-c076f45325d8",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_49g74wdr",
+        "parent_id": "feat_94zaq5c5",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_scjgekvg": [
+      {
+        "id": "9925b337-1138-4f8a-9f9b-f5da90b0dcb5",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_scjgekvg",
+        "parent_id": "feat_ftg2uu47",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Setup"
+          }
+        ]
+      },
+      {
+        "id": "2dba5fb9-4d3b-47a6-a882-78004a8b9cb8",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_scjgekvg",
+        "parent_id": "feat_ftg2uu47",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_vjexfyrd": [
+      {
+        "id": "de5759a9-d9c5-41ce-a12e-6d9eeed3d8bc",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_vjexfyrd",
+        "parent_id": "feat_ftg2uu47",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Tear Down"
+          }
+        ]
+      },
+      {
+        "id": "9199ce9c-b109-4983-b422-c8fcd6fd06f7",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_vjexfyrd",
+        "parent_id": "feat_ftg2uu47",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_v93u7igy": [
+      {
+        "id": "b11d78ae-6857-4f12-99d4-338b7f39c88b",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_v93u7igy",
+        "parent_id": "feat_2dvhfxaq",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Fill Needed"
+          }
+        ]
+      },
+      {
+        "id": "2eb16f08-aef2-4e9a-82bf-5cfc45339bf0",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_v93u7igy",
+        "parent_id": "feat_2dvhfxaq",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_upy22k3e": [
+      {
+        "id": "41639bdf-7479-4521-93fe-13d9d22f0b9e",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_upy22k3e",
+        "parent_id": "feat_2dvhfxaq",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Count"
+          }
+        ]
+      },
+      {
+        "id": "92131ee3-8dc6-4820-a241-dbe79cb0daf4",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_upy22k3e",
+        "parent_id": "feat_2dvhfxaq",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_v9bmgxqv": [
+      {
+        "id": "2202dca2-3fb1-4b05-a575-055589100de0",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_v9bmgxqv",
+        "parent_id": "feat_2dvhfxaq",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Exists"
+          }
+        ]
+      },
+      {
+        "id": "f0aa4241-70c3-4b20-b4fa-5f13de9eeae1",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_v9bmgxqv",
+        "parent_id": "feat_2dvhfxaq",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_kj24h5jj": [
+      {
+        "id": "b23d878d-0f93-47c9-b5f7-d300aabfbfab",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_kj24h5jj",
+        "parent_id": "feat_2dvhfxaq",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Find Index"
+          }
+        ]
+      },
+      {
+        "id": "b911b299-637a-4d1a-8321-76740fa217eb",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_kj24h5jj",
+        "parent_id": "feat_2dvhfxaq",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_stwz692x": [
+      {
+        "id": "5885b944-32f6-4e33-8bea-5a491b8679a4",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_stwz692x",
+        "parent_id": "feat_2dvhfxaq",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Refresh"
+          }
+        ]
+      },
+      {
+        "id": "7b6c9203-eed9-404f-aff2-960e3d364040",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_stwz692x",
+        "parent_id": "feat_2dvhfxaq",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_thqab6it": [
+      {
+        "id": "b5bb5500-9998-46ab-ae85-e0bf6ae53e79",
+        "kind": "subfeature_added",
+        "at": "2026-11-06T03:22:48.454Z",
+        "feature_id": "feat_thqab6it",
+        "parent_id": "feat_2dvhfxaq",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Fill Table"
+          }
+        ]
+      },
+      {
+        "id": "fe8bce73-f630-47ea-9cf2-e221a61c7670",
+        "kind": "subfeature_updated",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_thqab6it",
+        "parent_id": "feat_2dvhfxaq",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "missing_since",
+            "before": null,
+            "after": "2026-11-06T03:25:09.530Z"
+          }
+        ]
+      }
+    ],
+    "feat_h4yntxdg": [
+      {
+        "id": "a9ad1230-c9df-4374-bc4e-1778903c9924",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_h4yntxdg",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Periodontal charting"
+          }
+        ]
+      }
+    ],
+    "feat_tkfb3as8": [
+      {
+        "id": "81ba44c2-9c4e-4b22-bcda-4bf2686a7036",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_tkfb3as8",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Recall management"
+          }
+        ]
+      }
+    ],
+    "feat_34acii7j": [
+      {
+        "id": "67e76444-f643-4144-b0ac-f99acd3265a9",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_34acii7j",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Email inbox and messaging"
+          }
+        ]
+      }
+    ],
+    "feat_iizad4di": [
+      {
+        "id": "9fb9fb30-2f18-4e5d-bf03-f599273a5c97",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_iizad4di",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Lab case tracking"
+          }
+        ]
+      }
+    ],
+    "feat_tts8p5n9": [
+      {
+        "id": "46f187df-4116-4de8-a947-503d0417fbed",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_tts8p5n9",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Orthodontic charting and cases"
+          }
+        ]
+      }
+    ],
+    "feat_ixspv2jd": [
+      {
+        "id": "86e1917f-cbce-49e3-818a-548d226dc254",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_ixspv2jd",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Payments and payment plans"
+          }
+        ]
+      }
+    ],
+    "feat_dg52cwu8": [
+      {
+        "id": "f22c8d49-c600-479c-ad1e-d2c39c7534af",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_dg52cwu8",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Accounts receivable aging"
+          }
+        ]
+      }
+    ],
+    "feat_ckiw6keq": [
+      {
+        "id": "0792505a-569e-42ec-b817-ad7d2a061cd4",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_ckiw6keq",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Insurance eligibility checks"
+          }
+        ]
+      }
+    ],
+    "feat_nv7p3nx8": [
+      {
+        "id": "2aafe534-50a4-4bea-90d7-51212e1600aa",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_nv7p3nx8",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Referral management"
+          }
+        ]
+      }
+    ],
+    "feat_hhdq3euv": [
+      {
+        "id": "5ed54f6e-1ae3-4cef-a381-3b19208586a6",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_hhdq3euv",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Central Manager"
+          }
+        ]
+      }
+    ],
+    "feat_vjapw47p": [
+      {
+        "id": "bed2c4b4-3d17-47f2-9c44-1a1ffac199bd",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_vjapw47p",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "HL7 integration"
+          }
+        ]
+      }
+    ],
+    "feat_4agvgf33": [
+      {
+        "id": "eb4aea44-6568-4688-98b5-211163a6cb2d",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_4agvgf33",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Custom report engine"
+          }
+        ]
+      }
+    ],
+    "feat_dhxy5dki": [
+      {
+        "id": "375c76ea-145a-48be-b173-f23eae88c23a",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_dhxy5dki",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Open Dental server service"
+          }
+        ]
+      }
+    ],
+    "feat_bgrxfqnu": [
+      {
+        "id": "c2cecfd5-8706-4fe0-a764-1ddbbb07fe9a",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_bgrxfqnu",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Mobile web access"
+          }
+        ]
+      }
+    ],
+    "feat_f22a7ude": [
+      {
+        "id": "7329dc5d-f344-4381-904b-b40951725e78",
+        "kind": "feature_created",
+        "at": "2026-11-06T03:25:09.530Z",
+        "feature_id": "feat_f22a7ude",
+        "source": "discovery",
+        "changes": [
+          {
+            "field": "name",
+            "after": "Tooth chart rendering"
+          }
+        ]
+      }
+    ]
+  }
+}
