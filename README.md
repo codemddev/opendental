@@ -10,7 +10,6 @@
 
 ## Getting Started
 Each branch contains all of the corresponding releases for said Major and Minor version and each commit the branches will contain the code for each Major, Minor, and Build version.
-
 For example, if you want to use the most recent code for Open Dental v21.4 you would simply checkout branch `21_4` and the most recent build of v21.4 would be used. Checkout a specific commit within the corresponding branch when a specific build is desired. Each commit will have a commit message like **version 21.4.14.0** so checkout that commit when v21.4.14 is the desired Major, Minor, and Build.
 
 ## Build
