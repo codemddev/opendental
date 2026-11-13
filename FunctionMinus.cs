@@ -42,6 +42,7 @@ namespace fyiReporting.RDL
 		/// </summary>
 		public FunctionMinus() 
 		{
+			/ CodeMD throwaway test: checking Feature Impact on this language (this PR will be closed)
 			_lhs = null;
 			_rhs = null;
 		}
